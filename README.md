@@ -4,7 +4,7 @@ Composições do After Effects na timeline do DaVinci Resolve, com render direto
 
 ## Download
 
-**[Baixar AE SYNC 2.01 para Windows x64](https://github.com/jluisFX/AE-SYNC-download/releases/latest)**
+**[Baixar AE SYNC 2.02 para Windows x64](https://github.com/jluisFX/AE-SYNC-download/releases/latest)**
 
 ## Instalação
 

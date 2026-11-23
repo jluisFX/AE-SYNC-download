@@ -1,3 +1,9 @@
+# 2.02
+
+- Conector do After renomeado para FrameSyncAE.aex, com backup e remoção do nome antigo na atualização.
+- Corrigidas esperas na inicialização que travavam o arraste na timeline.
+- Explicações com linhas curtas em português, inglês e espanhol.
+
 # Versão 2.01
 
 - Cache persistente em disco e modo offline para frames preparados.
